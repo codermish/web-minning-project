@@ -1,6 +1,6 @@
 # web-minning-project
 
-# AI-Powered Resume-Based Job Recommender
+# Resume-Based Job Recommender
 
 This project implements a web-based job recommender system using web mining and NLP to automatically match resume skills with live job listings.
 
